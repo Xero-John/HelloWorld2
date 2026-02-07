@@ -71,7 +71,7 @@ public class MainForm extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void clickAction(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_clickAction
-        System.out.println("Clicked");
+
     }//GEN-LAST:event_clickAction
 
     /**
